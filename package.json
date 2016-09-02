@@ -1,0 +1,26 @@
+{
+  "name": "platzigram-db",
+  "version": "1.0.0",
+  "description": "Platzigram DataBase Client",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sepalacio/platzigramdb.git"
+  },
+  "author": "Sebastian Palacio <sebastianpalacio327@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sepalacio/platzigramdb/issues"
+  },
+  "homepage": "https://github.com/sepalacio/platzigramdb#readme",
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "standard": "^8.0.0"
+  }
+}
