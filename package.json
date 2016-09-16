@@ -26,6 +26,7 @@
     "standard": "^8.0.0"
   },
   "dependencies": {
+    "bluebird": "^3.4.6",
     "co": "^4.6.0",
     "rethinkdb": "^2.3.3"
   }
